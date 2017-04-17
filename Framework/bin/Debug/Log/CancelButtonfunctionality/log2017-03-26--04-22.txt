@@ -1,0 +1,3 @@
+26.03.2017 16:22:55 Navigating to the url
+26.03.2017 16:22:59 Site is opened, Checking Login procedure
+26.03.2017 16:22:59 Login and password are entered. Clicking Login button

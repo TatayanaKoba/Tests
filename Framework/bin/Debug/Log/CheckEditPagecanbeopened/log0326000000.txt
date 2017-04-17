@@ -1,0 +1,8 @@
+26.03.2017 15:04:36 Navigating to the url
+26.03.2017 15:04:42 Site is opened, Checking Login procedure
+26.03.2017 15:04:42 Login and password are entered. Clicking Login button
+26.03.2017 15:04:44 Login button is clicked, waiting for the account page
+26.03.2017 15:04:44 User is successfully logged in
+26.03.2017 15:04:44 Trying to click on change account details button
+26.03.2017 15:04:45 Waiting for Edit Account page
+26.03.2017 15:04:45 Edit Account page is opened
