@@ -4,3 +4,11 @@ c:\users\tatyana\documents\visual studio 2015\Projects\1project\1project\bin\Deb
 c:\users\tatyana\documents\visual studio 2015\Projects\1project\1project\obj\Debug\1project.csprojResolveAssemblyReference.cache
 c:\users\tatyana\documents\visual studio 2015\Projects\1project\1project\obj\Debug\1project.exe
 c:\users\tatyana\documents\visual studio 2015\Projects\1project\1project\obj\Debug\1project.pdb
+C:\Users\Tatyana\Documents\GitHubFolder\Tests\1project\1project\bin\Debug\1project.exe.config
+C:\Users\Tatyana\Documents\GitHubFolder\Tests\1project\1project\obj\Debug\1project.exe
+C:\Users\Tatyana\Documents\GitHubFolder\Tests\1project\1project\obj\Debug\1project.pdb
+C:\Users\Tatyana\Documents\GitHubFolder\Tests\1project\1project\bin\Debug\1project.exe
+C:\Users\Tatyana\Documents\GitHubFolder\Tests\1project\1project\bin\Debug\1project.pdb
+C:\Users\Tatyana\Documents\GitHubFolder\Tests\1project\1project\bin\Debug\nunit.framework.dll
+C:\Users\Tatyana\Documents\GitHubFolder\Tests\1project\1project\bin\Debug\nunit.framework.xml
+C:\Users\Tatyana\Documents\GitHubFolder\Tests\1project\1project\obj\Debug\1project.csprojResolveAssemblyReference.cache
