@@ -1,9 +1,0 @@
-26.03.2017 16:23:00 Login button is clicked, waiting for the account page
-26.03.2017 16:23:01 User is successfully logged in
-26.03.2017 16:23:01 Trying to click on change account details button
-26.03.2017 16:23:02 Waiting for Edit Account page
-26.03.2017 16:23:02 Edit Account page is opened
-26.03.2017 16:23:02 Making changes to the account
-26.03.2017 16:23:02 Changes are entered, cancelling
-26.03.2017 16:23:03 Changes are canceled
-26.03.2017 16:23:04 Account Details page is opened, changes are not saved

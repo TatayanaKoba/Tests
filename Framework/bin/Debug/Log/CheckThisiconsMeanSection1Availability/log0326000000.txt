@@ -1,7 +1,0 @@
-26.03.2017 15:04:50 Navigating to the url
-26.03.2017 15:04:55 Site is opened, Checking Login procedure
-26.03.2017 15:04:55 Login and password are entered. Clicking Login button
-26.03.2017 15:04:56 Login button is clicked, waiting for the account page
-26.03.2017 15:04:57 User is successfully logged in
-26.03.2017 15:04:57 Checking This Icons Mean section availability
-26.03.2017 15:04:57 This Icon means section is availble
